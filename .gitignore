@@ -9,4 +9,6 @@ implementations/*/data
 implementations/*/images
 implementations/*/saved_models
 
+assets/load_data.sh
+
 __pycache__
